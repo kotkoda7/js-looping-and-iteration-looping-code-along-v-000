@@ -8,10 +8,10 @@ function printBadges (names) {
 }
 
 function tailsNeverFails() {
-  return Math.random(1,2);
+  return Math.random();
  
 while tailsNeverFails() {
-  console.log("")
+  console.log(""You got 3 tails in a row!"")
 }
   
 }
