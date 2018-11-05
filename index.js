@@ -1,2 +1,2 @@
 // Code your solutions in this file
-printBadges()
+for printBadges(names) 
