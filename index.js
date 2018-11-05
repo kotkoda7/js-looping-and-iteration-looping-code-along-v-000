@@ -7,3 +7,11 @@ function printBadges (names) {
   return names;
 }
 
+function tailsNeverFails() {
+  return Math.random(1,2);
+ 
+while tailsNeverFails() {
+  console.log("")
+}
+  
+}
