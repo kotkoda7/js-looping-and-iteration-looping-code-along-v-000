@@ -1,2 +1,5 @@
 // Code your solutions in this file
-for printBadges(names) 
+function printBadges(names)  {
+  for 
+  
+}
